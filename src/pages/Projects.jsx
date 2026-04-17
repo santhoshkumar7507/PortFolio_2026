@@ -15,11 +15,7 @@ const Projects = () => {
       </h1>
 
       <p className='text-slate-500 mt-2 leading-relaxed'>
-        I've embarked on numerous projects throughout the years, but these are
-        the ones I hold closest to my heart. Many of them are open-source, so if
-        you come across something that piques your interest, feel free to
-        explore the codebase and contribute your ideas for further enhancements.
-        Your collaboration is highly valued!
+        Welcome to my project showcase! As a dedicated Python and Full-Stack Developer, I specialize in engineering secure, high-performance backends and intuitive, responsive user interfaces. Below is a curated selection of my most impactful applications—from robust task management systems to scalable e-commerce platforms. Each project reflects my commitment to clean architecture, modern frameworks (like FastAPI and React), and seamless user experiences. Feel free to explore the live links and dive into my code!
       </p>
 
       <div className='flex flex-wrap my-20 gap-16'>

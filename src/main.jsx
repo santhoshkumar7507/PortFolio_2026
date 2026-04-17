@@ -16,15 +16,15 @@
       <>
         <Helmet>
           {/* Title and Meta Tags for SEO */}
-          <title>Adithyen | Full Stack Developer Portfolio</title>
-          <meta name="description" content="Portfolio of Adithyen, a full stack developer skilled in modern web technologies." />
-          <meta name="keywords" content="Full Stack Developer, Adithyen, Adithyen Portfolio, Web Developer" />
+          <title>Santhosh Kumar | Python Developer Portfolio</title>
+          <meta name="description" content="Portfolio of Santhosh Kumar, a Python developer skilled in modern backend web technologies." />
+          <meta name="keywords" content="Python Developer, Santhosh Kumar, Santhosh Kumar Portfolio, Full Stack Developer" />
 
           {/* Open Graph Tags for Social Media */}
-          <meta property="og:title" content="Adithyen | Full Stack Developer Portfolio" />
-          <meta property="og:description" content="Portfolio of Adithyen, showcasing full-stack development skills." />
+          <meta property="og:title" content="Santhosh Kumar | Python Developer Portfolio" />
+          <meta property="og:description" content="Portfolio of Santhosh Kumar, showcasing Python and full-stack development skills." />
           <meta property="og:image" content="URL_of_Your_Portfolio_Image" />
-          <meta property="og:url" content="https://adhii-portfolio.netlify.app/" />
+          <meta property="og:url" content="https://santhosh-portfolio.netlify.app/" />
 
           {/* JSON-LD Structured Data for SEO */}
           <script type="application/ld+json">
@@ -32,12 +32,12 @@
             {
               "@context": "http://schema.org",
               "@type": "Person",
-              "name": "Adithyen",
-              "jobTitle": "Full Stack Developer",
-              "url": "https://adhii-portfolio.netlify.app/",
+              "name": "Santhosh Kumar",
+              "jobTitle": "Python Developer",
+              "url": "https://santhosh-portfolio.netlify.app/",
               "sameAs": [
-                "https://www.linkedin.com/in/adithyen",
-                "https://github.com/adithyen"
+                "https://www.linkedin.com/in/santhosh-kumar-s-1934022b7",
+                "https://github.com/santhoshkumar7507"
               ]
             }
           `}
@@ -47,9 +47,9 @@
         <LazyLoadImage src="your-image.jpg" alt="portfolio image" effect="blur" />
 
         
-        <h1>Adithyen - Full Stack Developer</h1>
+        <h1>Santhosh Kumar - Python Developer</h1>
         <h2>Portfolio</h2>
-        <p>Hi, I'm Adithyen, a full-stack developer with expertise in front-end and back-end technologies...</p>
+        <p>Hi, I'm Santhosh Kumar, a passionate Python developer dedicated to crafting robust and scalable software solutions...</p>
       </>
     );
   }

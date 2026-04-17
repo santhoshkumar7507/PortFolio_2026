@@ -17,12 +17,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <div className='ml-4'>
-          <ResumeButton 
-            googleDriveLink="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing"
-            fileName="Adithyen_Resume.pdf"
-            variant="outline"
-            size="sm"
-          />
+          <ResumeButton />
         </div>
       </nav>
     </header>

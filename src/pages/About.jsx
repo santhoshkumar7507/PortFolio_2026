@@ -15,24 +15,18 @@ const About = () => {
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Adithyen
+          Santhosh Kumar
         </span>{" "}
-        👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Croatia, specializing in technical
-          education through hands-on learning and building applications.
+          Passionate Python Developer dedicated to crafting robust and scalable software solutions. Experienced in full-stack development with hands-on expertise in Flask, FastAPI, and Django frameworks.
         </p>
       </div>
 
       <div className='mt-8 flex justify-center'>
-        <ResumeButton 
-          googleDriveLink="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing"
-          fileName="Adithyen_Resume.pdf"
-          variant="outline"
-        />
+        <ResumeButton />
       </div>
 
       <div className='py-10 flex flex-col'>
@@ -58,8 +52,7 @@ const About = () => {
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
-            teaming up with smart people. Here's the rundown:
+            My professional journey is defined by a relentless drive to architect cutting-edge backend solutions and deliver powerful end-to-end applications. From designing highly concurrent web APIs to integrating real-time WebSocket communication, I thrive in environments that challenge my problem-solving capabilities. Here is an overview of my professional experience:
           </p>
         </div>
 

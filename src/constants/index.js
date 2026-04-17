@@ -105,55 +105,18 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Reactjs",
-        company_name: "MagizhTech",
+        title: "Python Developer Intern",
+        company_name: "Magizh Technologies",
         icon: magizhtech,
         iconBg: "#accbe1",
-        date: "June 2024",
+        date: "October 2025 - March 2026",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Project: Real-Time Dashboard with FastAPI and React",
+            "Built scalable backend services using FastAPI, ensuring rapid API responses",
+            "Designed dynamic frontends with React, integrating real-time updates via WebSockets",
+            "Deployed using Docker and Redis, boosting performance and scalability",
         ],
-    },
-    {
-        title: "Python developer",
-        company_name: "Student management",
-        icon: tesla,
-        iconBg: "#fbc3bc",
-        date: "Augest 2024",
-        points: [
-            "Developing and maintaining web applications using FastAPI and other related technologies such as Python, JavaScript, HTML, and CSS.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-            "Using Python to manage students in a database, including creating new students, retrieving students, updating students, and deleting students.",
-        ],
-    },
-    {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "July 2024",
-        points: [
-            "Worked in my own office website and added some features using React in the help of v0.dev.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "June 2024",
-        points: [
-            "Developing an AI assistant named Jarvis, which can access and control a laptop using voice commands.",
-            "Using Python to develop a speech recognition system that can recognize and execute voice commands.",
-            "Implementing a natural language processing system to understand and generate human-like text responses.",
-            "Integrating the AI assistant with various APIs and services to enable it to perform tasks such as sending emails and controlling the laptop's hardware.",
-        ],
-    },
+    }
 ];
 
 export const socialLinks = [
@@ -165,12 +128,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/Adithyenkandasamy',
+        link: 'https://github.com/santhoshkumar7507',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/adithyen-k',
+        link: 'https://linkedin.com/in/santhosh-kumar-s-1934022b7',
     }
 ];
 
@@ -178,43 +141,22 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Ai-voice-assistant',
-        description: 'Developed an AI assistant with Python that can easily interact with other processes, executing tasks such as sending emails and controlling hardware components.',
-        link: 'https://github.com/Adithyenkandasamy/Ai-voice-Assistant',
+        name: 'Task Manager Application',
+        description: 'Developed a full-stack task management application with a responsive UI using ReactJS and backend APIs using FastAPI. Implemented CRUD operations with MySQL for efficient task storage and management. Integrated user authentication and real-time task status updates for improved user experience.',
+        link: 'https://github.com/santhoshkumar7507',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created an Fast API application like Instagram and did many things in this project. I learned about Fast API and how to use it to create a RESTful API. I also learned how to use Python\'s built-in support for asynchronous programming with asyncio. I used the Fast API framework to create the API endpoints and used the Pydantic library to define the data models. I also used the SQLAlchemy library to interact with the PostgreSQL database. I used the Alembic library to manage the database migrations. I also used the JWT library to handle the authentication. I used the Black library to format the code. I used the Flake8 library to lint the code. I used the MyPy library to type check the code.',
-        link: 'https://github.com/Adithyenkandasamy/Fast_Api',
+        name: 'Job Portal Web Application',
+        description: 'Developed a full-stack job portal with a responsive frontend using ReactJS and backend APIs using FastAPI. Created a portal where users can register, login, and apply for jobs. Admin panel implemented for posting and managing job listings.',
+        link: 'https://github.com/santhoshkumar7507',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Mern stack-Todo-app',
-        description: 'Learned about React by building a mobile app for finding and comparing cars on the market, streamlining the car-buying process. I also learned about Node.js and how to use it to create a RESTful API.With the backend of mongo db',
-        link: 'https://github.com/Adithyenkandasamy/Todo_app-react',
-    },
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: 'Full Stack Todo-list',
-        description: 'Learned about Flask framework in Python by building a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/Adithyenkandasamy/Flask_todo',
-    }// },
-    // {
-    //     iconUrl: estate,
-    //     theme: 'btn-back-black',
-    //     name: 'Real-Estate Application',
-    //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-    //     link: 'https://github.com/adrianhajdin/projects_realestate',
-    // },
-    // {
-    //     iconUrl: summiz,
-    //     theme: 'btn-back-yellow',
-    //     name: 'AI Summarizer Application',
-    //     description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-    //     link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    // }
+        name: 'E-Commerce Website',
+        description: 'Developed a full-stack e-commerce platform with a responsive UI using ReactJS and backend using Node.js and Express.js. Implemented product management, cart functionality, and order processing with MongoDB for data storage. Integrated user authentication and secure checkout features to enhance user experience.',
+        link: 'https://github.com/santhoshkumar7507',
+    }
 ];
