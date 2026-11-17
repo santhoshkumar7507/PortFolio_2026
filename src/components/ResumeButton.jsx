@@ -17,6 +17,8 @@ const ResumeButton = () => {
   return (
     <a
       href={resumeSrc}
+      target="_blank"
+      rel="noopener noreferrer"
       download={fileName}
       onClick={handleDownload}
       className="text-black hover:text-gray-700 cursor-pointer transition-colors font-medium relative group"
