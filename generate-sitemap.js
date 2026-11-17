@@ -3,7 +3,7 @@ import { createWriteStream } from 'fs';
 import { resolve } from 'path';
 
 async function generateSitemap() {
-  const sitemap = new SitemapStream({ hostname: 'https://adhii-portfolio.netlify.app' });
+  const sitemap = new SitemapStream({ hostname: 'https://sksanthosh-portfolio.netlify.app' });
   
   // Add your routes here
   const routes = [

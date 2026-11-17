@@ -3,9 +3,9 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://adhii-portfolio.netlify.app
+Host: https://sksanthosh-portfolio.netlify.app
 
 # Sitemaps
-Sitemap: https://adhii-portfolio.netlify.app/sitemap.xml
+Sitemap: https://sksanthosh-portfolio.netlify.app/sitemap.xml
 
 

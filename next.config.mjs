@@ -7,7 +7,7 @@ const nextConfig = {
         },
       ];
     },
-    siteUrl: 'https://adhii-portfolio.netlify.app',
+    siteUrl: 'https://sksanthosh-portfolio.netlify.app',
     generateRobotsTxt: true,
   };
   
